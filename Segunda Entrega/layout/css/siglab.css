@@ -1,0 +1,66 @@
+body	{background: white}
+div	{	border: 1px solid gray;
+									
+				
+	}
+.seccion	{	width: 800px;
+			position: relative;	
+			opacity:0.3;
+			background: white;
+		}
+.int_cabecera	{float:left;
+				height: 100px;
+				}
+		
+.cuerpo {	float:left;	
+			height: 400px;			
+		}
+		
+
+#login	{width: 150px;border:none;
+		 text-align:center;}
+#banner	{	width: 648px;
+			border-top: none;
+			border-bottom: none;
+			text-align:center;
+		}
+		
+		
+#extras	{	width: 150px;
+				border: none;
+				text-align:center;
+			}
+			
+#contenido	{	width: 648px;
+				border-top: none;
+				border-bottom: none;
+				text-align:center;
+			}
+
+		
+
+
+#cabecera	{ 	top: 20px;
+				margin: 0 auto;
+				height: 100px;
+			}										
+			
+			
+#menu	{ 	top: 22px;
+			margin: 0 auto;
+			height: 50px;
+			text-align:center;							
+		}
+		
+						
+																		
+#cuerpo	{ 	top: 23px;
+			margin: 0 auto;
+			height: 400px;
+			
+		}
+#pie	{ 	top: 25px;
+			margin: 0 auto;
+			height: 100px;
+			text-align:center;
+		}
